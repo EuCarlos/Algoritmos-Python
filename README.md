@@ -4,18 +4,14 @@ O Objetivo aqui é ajudar na construção de algoritmos, para criar uma logica d
 <p><img src="https://lojasaraiva.vteximg.com.br/arquivos/ids/9163683/1007998232.jpg?v=637103449656470000" alt="some text" width=200 height=320><b>Autor:</b> Jose Augusto N. G. Manzano e Jayr Figueiredo de Oliveira, Editora Érica </p>
 <p></p>
 <h1> CAPÍTULOS </h1>
-<p><b>ATENÇÃO:</b> É Recomendavel fazer os exercicios antes de visualizar a resolução</p>
+<p><b>ATENÇÃO:</b> É Recomendavel fazer os exercicios antes de visualizar a resolução. Para ver os exercicios sem as repostas clique nos links PDF que será direcionado aos exercicios daquele capitulo</p>
 <ul>
-    <li><a href="">Capítulo 1</a>(Incompleto)</li>
-    <li>Capítulo 2(...)</li>
-    <li>Capítulo 3(...)</li>
-      <li>Capítulo 4(...)</li>
-      <li>Capítulo 5(...)</li>
-      <li>Capítulo 6(...)</li>
-      <li>Capítulo 7(...)</li>
-      <li>Capítulo 8(...)</li>
-      <li>Capítulo 9(...)</li>
-      <li>Capítulo 10(...)</li>
-      <li>Capítulo 11(...)</li>
-      <li>Capítulo 12(...)</li>
+        <li>Capítulo 3:<a href="https://github.com/EuCarlos/Exercicios-Python/tree/master/Capitulo%203"> Exercicios resolvidos</a> | <a href="https://github.com/EuCarlos/Exercicios-Python/blob/master/Capitulo%203/CAP%C3%8DTULO%203.pdf"> PDF</a></li>
+        <li>Capítulo 4: Exercicios resolvidos</a> |  PDF</li>
+        <li>Capítulo 5: Exercicios resolvidos</a> |  PDF</li>
+        <li>Capítulo 6: Exercicios resolvidos</a> |  PDF</li>
+        <li>Capítulo 7: Exercicios resolvidos</a> |  PDF</li>
+        <li>Capítulo 8: Exercicios resolvidos</a> |  PDF</li>
+        <li>Capítulo 9: Exercicios resolvidos</a> |  PDF</li>
+        <li>Capítulo 10: Exercicios resolvidos</a> |  PDF</li>
 </ul>
