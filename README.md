@@ -9,7 +9,7 @@ O Objetivo aqui é ajudar na construção de algoritmos, para criar uma logica d
 <ul>
         <li>Capítulo 3:<a href="https://github.com/EuCarlos/Exercicios-Python/tree/master/Capitulo%203"> Exercicios resolvidos</a> | <a href="https://github.com/EuCarlos/Exercicios-Python/blob/master/Capitulo%203/CAP%C3%8DTULO%203.pdf"> PDF</a></li>
         <li>Capítulo 4: <a href="https://github.com/EuCarlos/Algoritmos-Python/tree/master/CAPITULO%204">Exercicios resolvidos</a> |  <a href="https://github.com/EuCarlos/Algoritmos-Python/blob/master/CAPITULO%204/CAP%C3%8DTULO%204.pdf">PDF</a></li>
-        <li>Capítulo 5: Exercicios resolvidos</a> |  PDF</li>
+        <li>Capítulo 5: <a href="https://github.com/EuCarlos/Algoritmos-Python/tree/master/CAPITULO%205">Exercicios resolvidos</a> |  <a href="https://github.com/EuCarlos/Algoritmos-Python/blob/master/CAPITULO%205/CAP%C3%8DTULO%205.pdf">PDF</a></li>
         <li>Capítulo 6: Exercicios resolvidos</a> |  PDF</li>
         <li>Capítulo 7: Exercicios resolvidos</a> |  PDF</li>
         <li>Capítulo 8: Exercicios resolvidos</a> |  PDF</li>
