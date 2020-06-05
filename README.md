@@ -8,7 +8,7 @@ Jose Augusto N. G. Manzano e Jayr Figueiredo de Oliveira, Editora Érica |
 <img src="https://lojasaraiva.vteximg.com.br/arquivos/ids/9163683/1007998232.jpg?v=637103449656470000" alt="some text" width=200 height=320>|
 
 <p></p>
-<h1> CAPÍTULOS </h1>
+<h1> CAPÍTULOS    </h1>
 <p><b>ATENÇÃO:</b> É Recomendavel fazer os exercicios antes de visualizar a resolução. Para ver os exercicios sem as repostas clique nos links PDF que será direcionado aos exercicios daquele capitulo:  </p>
 <ul>
         <li>Capítulo 3:<a href="https://github.com/EuCarlos/Exercicios-Python/tree/master/Capitulo%203"> Exercicios resolvidos</a> | <a href="https://github.com/EuCarlos/Exercicios-Python/blob/master/Capitulo%203/CAP%C3%8DTULO%203.pdf"> PDF</a></li>
