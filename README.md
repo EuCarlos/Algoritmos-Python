@@ -1,5 +1,5 @@
 # Exercicios-Python
-O Objetivo aqui é ajudar na construção de algoritmos, para criar uma logica de programação.
+O Objetivo aqui é ajudar na construção de algoritmos, para criar uma logica de programação.  
 <p>Os exercicios aqui resolvido, são herdados do livro: <b>Algoritmos - Lógica Para Desenvolvimento de Programação de Computadores - 28ª Ed. 2016</b></p>
 
 Algoritmos - Lógica Para Desenvolvimento de Programação de Computadores|
