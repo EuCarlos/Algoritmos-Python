@@ -20,3 +20,7 @@ Jose Augusto N. G. Manzano e Jayr Figueiredo de Oliveira, Editora Érica |
         <li>Capítulo 9: Exercicios resolvidos</a> |  PDF</li>
         <li>Capítulo 10: Exercicios resolvidos</a> |  PDF</li>
 </ul>
+
+Algoritmos - Lógica Para Desenvolvimento de Programação de Computadores| paralelo
+:---:| :---: |
+Jose Augusto N. G. Manzano e Jayr Figueiredo de Oliveira, Editora Érica | Paralelo |
