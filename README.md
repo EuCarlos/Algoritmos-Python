@@ -18,6 +18,6 @@ Capítulo 4| <a href="https://github.com/EuCarlos/Algoritmos-Python/tree/master/
 Capítulo 5| <a href="https://github.com/EuCarlos/Algoritmos-Python/tree/master/CAPITULO%205">Exercicios resolvidos</a> |  <a href="https://github.com/EuCarlos/Algoritmos-Python/blob/master/CAPITULO%205/CAP%C3%8DTULO%205.pdf">PDF</a>
 Capítulo 6|<a href="https://github.com/EuCarlos/Algoritmos-Python/tree/master/CAPITULO%206"> Exercicios resolvidos</a> |  <a href="https://github.com/EuCarlos/Algoritmos-Python/blob/master/CAPITULO%206/CAP%C3%8DTULO%206.pdf">PDF</a>
 Capítulo 7| <a href="https://github.com/EuCarlos/Algoritmos-Python/tree/master/CAPITULO%207"> Exercicios resolvidos</a>  |  <a href="https://github.com/EuCarlos/Algoritmos-Python/blob/master/CAPITULO%207/CAP%C3%8DTULO%207.pdf">PDF</a>
-Capítulo 8| Exercicios resolvidos</a> |  PDF
+Capítulo 8| <a href="https://github.com/EuCarlos/Algoritmos-Python/tree/master/CAPITULO%208"> Exercicios resolvidos</a> |  <a href="https://github.com/EuCarlos/Algoritmos-Python/blob/master/CAPITULO%208/CAP%C3%8DTULO%208.pdf">PDF</a>
 Capítulo 9| Exercicios resolvidos</a> |  PDF
 Capítulo 10| Exercicios resolvidos</a> |  PDF
