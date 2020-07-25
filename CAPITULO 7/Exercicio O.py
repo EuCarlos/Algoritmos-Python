@@ -1,0 +1,32 @@
+#  Escrever um programa que leia 15 elementos do tipo inteiro em uma matriz A e apresentar os elementos da matriz utilizando a pesquisa binária
+A = []
+for i in range(15):
+    A.append(int(input('Informe um valor para a Matriz A[{}]'.format(i))))
+
+for i in range(14):
+    for j in range(i + 1, 15):
+        if (A[i] > A[j]):
+            x = A[i]
+            A[i] = A[j]
+            A[j] = x
+
+R = 'SIM'
+while( R == 'SIM'):
+    Pesq = float(input('Pesquisa: '))
+    Inicio = 1
+    Fim = 15
+    Acha = False
+    while((Inicio <= Fim) and (Acha == False)):
+        Meio = (Inicio + Fim) / 2
+        if (Pesq == A[Meio]):
+            Acha = True
+        else:
+            if(Pesq < A[Meio]):
+                Fim = Meio - 1
+            else:
+                Inicio = Meio + 1
+    if(Acha == True):
+        print('{} foi localizado na posição {}'.format(Pesq, Meio))
+    else:
+        print('{} não foi localizado'.format(Pesq))
+    R = input('Resp: ')
